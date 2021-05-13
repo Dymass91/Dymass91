@@ -1,4 +1,5 @@
-![Main](https://user-images.githubusercontent.com/42501752/118176875-3f66d380-b432-11eb-817c-bae1dd1ad175.png)
+![Main](https://user-images.githubusercontent.com/42501752/118186978-a7231b80-b43e-11eb-844e-a75ca5ecba06.png)
+
 
   <h2>Hi there:wave: I am Tomasz and I want to tell you a bit about me :wink:</h2>
 
