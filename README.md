@@ -12,7 +12,7 @@
   I liked this plot and decided that it is definitely what I want to do for the rest of my life.
   
   **My experience with programing?** I started my programing story with HTML, CSS and JavaScript and I have the most experience in them and most of my projects.
-  Later came React.js which I liked very much in my portfolio there is one project built in this framework and
+  Later came React.js which I liked very much. In my portfolio there is one project built in this framework and
   then I got some experience with MySql, PHP, and Wordpress to be able to do projects by myself for clients that I managed to acquire, 
   but in my heart I feel that my place is working with React.js.
 
